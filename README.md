@@ -1,7 +1,9 @@
 <div align="center">
+  <img src="https://wibag.com.br/wp-content/uploads/2023/03/wibag.svg" alt="Wibag" width="200"/>
+</div>
 
-# 📶 Wibag
-
+<div align="center">
+  
 ### Internet para eventos. Onde, quando e como você precisar.
 
 [![Website](https://img.shields.io/badge/Website-wibag.com.br-blue?style=for-the-badge)](https://wibag.com.br)
